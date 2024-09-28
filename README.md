@@ -1,10 +1,10 @@
-<h1 align="center">  Documentação Simples</h1>
-
 <p align="center">
     <img src="img/numeroSecreto.jpg" alt="img_numeroSecreto" width="900" height="auto">
 </p>
 
-## Descrição Básica:
+<h1 align="center">
+    ## Descrição Básica:
+/h1>
 
 <b>Objetivo:</b> 
 
