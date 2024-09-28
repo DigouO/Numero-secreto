@@ -6,11 +6,11 @@
 
 <p align="center"## Descrição Básica:/p>
 
-<b>Objetivo:</b> 
+# <b>Objetivo:</b> 
 
-Adivinhar o número secreto escolhido pelo sistema ou por outro jogador dentro de um intervalo de números definido.
+Adivinhar o número secreto escolhido pelo sistema dentro de um intervalo de números definido.
 
-<em>-> Regras Gerais;</em>
+## <b>Regras Gerais:</b>
 
 <em>-> Seleção do número secreto.</em>
 
@@ -18,37 +18,35 @@ Um número aleatório é gerado por um algoritmo ou escolhido por um dos jogador
 
 O número deve estar dentro de um intervalo definido, por exemplo, entre 1 e 100.
 
-<b>Tentativas dos jogadores:</b>
+## <b>Tentativas dos jogadores:</b>
 
 <em>->O jogador faz uma tentativa, informando o número que acredita ser o correto.</em>
 
 <em>->Para cada tentativa, o sistema dá uma dica, dizendo se o número secreto é maior ou menor que o número tentado.</em>
 
-<b>Feedback:</b>
+## <b>Feedback:</b>
 
 <em>->Se o jogador adivinhar o número certo, ele vence o jogo.</em>
 
 <em>->Se não acertar, ele recebe dicas (maior/menor) até esgotar o número de tentativas, caso haja um limite.</em>
 
-<b>Limite de tentativas:</b>
+## <b>Limite de tentativas:</b>
 
 <em>->O jogo pode ter um limite de tentativas para tornar o desafio mais interessante, como 10 tentativas para adivinhar o número secreto.</em>
 
 <em>->Se o jogador não adivinhar dentro do limite, ele perde o jogo.</em>
 
-<b>Variações:</b>
+## <b>Variações:</b>
 
 Nível de dificuldade: 
 
 <em>->O intervalo de números pode variar de acordo com o nível de dificuldade (fácil: 1-50, médio: 1-100, difícil: 1-1000).</em>
 
-<b>Modo cronometrado:</b> 
-
-Dicas avançadas: 
+## <b>Dicas avançadas:</b> 
 
 <em>->Além de dizer se o número é maior ou menor, pode-se fornecer dicas adicionais, como a proximidade em termos percentuais ou a quantidade de dígitos corretos.</em>
 
-<b>Interface Gráfica:</b>
+## <b>Interface Gráfica:</b>
 
 O jogo pode ter uma interface com:
 
@@ -58,7 +56,7 @@ O jogo pode ter uma interface com:
 
 ->Um quadro de mensagens que mostre as dicas e resultados das tentativas.
 
-->Um cronômetro (para o modo cronometrado) e um contador de tentativas restantes.</em>
+->Um cronômetro (para o modo cronometrado que será acrescentado futuramente) e um contador de tentativas restantes.</em>
 
 
 ## Tecnologias usadas:
