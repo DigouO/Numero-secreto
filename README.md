@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-    <img src="img/numeroSecreto.jpg" alt="img_numeroSecreto" width="900" height="auto">
+    <img src="img/img_numeroSecreto.png" alt="Numero_Secreto." width="900" height="auto">
 </p>
 
 <p align="center"## Descrição Básica:/p>
