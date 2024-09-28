@@ -1,10 +1,10 @@
-<h1 align="center">  Documentação Simples</h1>
+<div align="center">
 
 <p align="center">
     <img src="img/numeroSecreto.jpg" alt="img_numeroSecreto" width="900" height="auto">
 </p>
 
-## Descrição Básica:
+<p align="center"## Descrição Básica:/p>
 
 <b>Objetivo:</b> 
 
@@ -73,3 +73,4 @@ O jogo pode ter uma interface com:
 ## Autor
 
 * **Rodrigo Ribeiro / DigouO** - *responsável pela construção, desenvolvimento e criação do layout*
+</div>
